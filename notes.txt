@@ -175,3 +175,28 @@ an if else statement might create a comparison but it does not produce a value, 
 
 Section 28 - The Conditional (Ternary) Operator 
 
+\\\\\\\\\\\
+
+Section 30 - JavaScript Releases ES5, ES6+ and ESNext
+
+1995 - first version of JavaScript is created in 10 days (Mocha)
+
+1996 - Mocha becomes LiveScript becomes JavaScript to attract Java developers.  Has no relation to Java at all
+        -JScript , a microsoft competing language is introduces 
+
+1997 - first official standard for JavaScript 
+        ECMAScript (the standards to the language)
+        JavaScript (the language itself)
+
+2009 ES5 lots of new features
+
+2015 ES6/ES2015 biggest update languate ever 
+
+So starts the annual release cycle with ES2016 .....
+
+JavaScript has backwards compatibility all the way back to version 1. 
+  In updates of the languages, things are only added, not taken out, ultimately not "breaking the web".
+
+Modern JavaScript is a lot cleaner and less quirky/buggy than JavaScript 20 years ago
+
+ESNext - basically future features being implemented are subjected to a 4 stage process.  Early implementation after stage 2 completion but before stage 4 approbal a browaer will implement a feature because they're pretty confident EMCA will implement it.  
